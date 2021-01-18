@@ -7,7 +7,7 @@
 		"HeaderImageURL": "https://raw.githubusercontent.com/frkngzl/H5190033FurkanGuzel/master/Images/1nmap_header.jpg",
 		"Website": "https://nmap.org",
 		"Stable Release": "3 Ekim 2020",
-		"Description": "Nmap, ağ taramalarında ve güvenlik testlerinde sık kullanılan açık kaynak kodlu bir yazılımdır. Geniş çaplı  esnek kullanımı sayesinde güvenlik uzmanları tarafından çok tercih edilir. Ağ üzerindeki bilgisayarların açık portlarının belirlenmesi ve burada çalışan servislerin taranması gibi birçok işlevi bulunur.  Ayrıca bilgisayarların üzerinde çalışan uygulamaları tespit edip hangi işletim sisteminde çalıştıklarını ve hangi güvenlik duvarını kullandıklarını öğrenebiliriz. Özgür bir yazılım olması sayesinde Windows, Linux gibi birçok işletim sisteminde çalışabilir."
+		"Description": "Nmap, aÄŸ taramalarÄ±nda ve gÃ¼venlik testlerinde sÄ±k kullanÄ±lan aÃ§Ä±k kaynak kodlu bir yazÄ±lÄ±mdÄ±r. GeniÅŸ Ã§aplÄ±  esnek kullanÄ±mÄ± sayesinde gÃ¼venlik uzmanlarÄ± tarafÄ±ndan Ã§ok tercih edilir. AÄŸ Ã¼zerindeki bilgisayarlarÄ±n aÃ§Ä±k portlarÄ±nÄ±n belirlenmesi ve burada Ã§alÄ±ÅŸan servislerin taranmasÄ± gibi birÃ§ok iÅŸlevi bulunur.  AyrÄ±ca bilgisayarlarÄ±n Ã¼zerinde Ã§alÄ±ÅŸan uygulamalarÄ± tespit edip hangi iÅŸletim sisteminde Ã§alÄ±ÅŸtÄ±klarÄ±nÄ± ve hangi gÃ¼venlik duvarÄ±nÄ± kullandÄ±klarÄ±nÄ± Ã¶ÄŸrenebiliriz. Ã–zgÃ¼r bir yazÄ±lÄ±m olmasÄ± sayesinde Windows, Linux gibi birÃ§ok iÅŸletim sisteminde Ã§alÄ±ÅŸabilir.."
 	},
 
 	{
@@ -16,8 +16,8 @@
 		"ImageURL": "https://raw.githubusercontent.com/frkngzl/H5190033FurkanGuzel/master/Images/2snort.jpg",
 		"HeaderImageURL": "https://raw.githubusercontent.com/frkngzl/H5190033FurkanGuzel/master/Images/2snort_header.jpg",
 		"Website": "https://www.snort.org",
-		"Stable Release": "19 Kasım 2020",
-		"Description": "Snort, IP ağlarında gerçek zamanlı trafik analizi ve paket kaydı yapabilen bir açık kaynaklı ağ saldırı önleme sistemidir (IPS). Protokol analizi, içerik arama ve eşleştirme gerçekleştirebilir ve arabellek taşmaları, gizli port taramaları, CGI saldırıları, SMB probları, OS parmak izi girişimleri ve daha fazlası gibi çeşitli saldırıları ve probları tespit etmek için kullanılabilir. Snort’un üç ana kullanımı vardır. Tcpdump gibi düz bir paket dinleyicisi, bir paket kaydedici (ağ trafiğinde hata ayıklama için yararlıdır) veya tam gelişmiş bir ağ saldırı önleme sistemi olarak kullanılabilir. Çeşitli alarm mekanizmaları sayesinde herhangi bir saldırı tespitinden sonra kullanıcıyı uyarır. Açık kaynak kodlu ve ücretsiz bir yazılım olan Snort; Linux, Windows ve MacOS platformlarında çalışabilir."
+		"Stable Release": "19 KasÄ±m 2020",
+		"Description": "Snort, IP aÄŸlarÄ±nda gerÃ§ek zamanlÄ± trafik analizi ve paket kaydÄ± yapabilen bir aÃ§Ä±k kaynaklÄ± aÄŸ saldÄ±rÄ± Ã¶nleme sistemidir (IPS). Protokol analizi, iÃ§erik arama ve eÅŸleÅŸtirme gerÃ§ekleÅŸtirebilir ve arabellek taÅŸmalarÄ±, gizli port taramalarÄ±, CGI saldÄ±rÄ±larÄ±, SMB problarÄ±, OS parmak izi giriÅŸimleri ve daha fazlasÄ± gibi Ã§eÅŸitli saldÄ±rÄ±larÄ± ve problarÄ± tespit etmek iÃ§in kullanÄ±labilir. Snortâ€™un Ã¼Ã§ ana kullanÄ±mÄ± vardÄ±r. Tcpdump gibi dÃ¼z bir paket dinleyicisi, bir paket kaydedici (aÄŸ trafiÄŸinde hata ayÄ±klama iÃ§in yararlÄ±dÄ±r) veya tam geliÅŸmiÅŸ bir aÄŸ saldÄ±rÄ± Ã¶nleme sistemi olarak kullanÄ±labilir. Ã‡eÅŸitli alarm mekanizmalarÄ± sayesinde herhangi bir saldÄ±rÄ± tespitinden sonra kullanÄ±cÄ±yÄ± uyarÄ±r. AÃ§Ä±k kaynak kodlu ve Ã¼cretsiz bir yazÄ±lÄ±m olan Snort; Linux, Windows ve MacOS platformlarÄ±nda Ã§alÄ±ÅŸabilir."
 	},
 
 	{
@@ -26,8 +26,8 @@
 		"ImageURL": "https://raw.githubusercontent.com/frkngzl/H5190033FurkanGuzel/master/Images/3nessus.jpg",
 		"HeaderImageURL": "https://raw.githubusercontent.com/frkngzl/H5190033FurkanGuzel/master/Images/3nessus_header.jpg",
 		"Website": "https://www.tenable.com",
-		"Stable Release": "20 Ağustos 2020",
-		"Description": "Nessus, komut satırı ve grafik arayüzüne sahip açık kaynaklı, platformlar arası bir güvenlik açığı tarayıcısıdır. Şu anda kullanılmakta olan en yaygın güvenlik açığı değerlendirme araçlarından biridir. 1200’ün üzerinde güvenlik açığını yakalayabilir ve bunlar hakkında çeşitli biçimlerde raporlar sunabilir (HTML, LaTeX, ASCII, vs.). Bulduğu açıklar için kullanıcıya güvenlik çözümleri önerir. Linux ve Windows platformlarda çalışır."
+		"Stable Release": "20 AÄŸustos 2020",
+		"Description": "Nessus, komut satÄ±rÄ± ve grafik arayÃ¼zÃ¼ne sahip aÃ§Ä±k kaynaklÄ±, platformlar arasÄ± bir gÃ¼venlik aÃ§Ä±ÄŸÄ± tarayÄ±cÄ±sÄ±dÄ±r. Åu anda kullanÄ±lmakta olan en yaygÄ±n gÃ¼venlik aÃ§Ä±ÄŸÄ± deÄŸerlendirme araÃ§larÄ±ndan biridir. 1200â€™Ã¼n Ã¼zerinde gÃ¼venlik aÃ§Ä±ÄŸÄ±nÄ± yakalayabilir ve bunlar hakkÄ±nda Ã§eÅŸitli biÃ§imlerde raporlar sunabilir (HTML, LaTeX, ASCII, vs.). BulduÄŸu aÃ§Ä±klar iÃ§in kullanÄ±cÄ±ya gÃ¼venlik Ã§Ã¶zÃ¼mleri Ã¶nerir. Linux ve Windows platformlarda Ã§alÄ±ÅŸÄ±r."
 	},
 
 	{
@@ -37,7 +37,7 @@
 		"HeaderImageURL": "https://raw.githubusercontent.com/frkngzl/H5190033FurkanGuzel/master/Images/4tripwire_header.jpg",
 		"Website": "https://github.com/Tripwire/tripwire-open-source",
 		"Stable Release": "31 Mart 2018",
-		"Description": "Tripwire sistemlerde veri bütünlüğünü analiz ve kontrol edebilmek için geliştirilmiş bir yazılımdır.Çalıştığırıldığında dosya bütünlüklerini kontrol ederek bilgileri bir veritabanında toplar. Bir sonraki kontrol aşamasında bu veritabanında kayıtlı olan bilgilere göre herhangi bir değişiklik saptarsa değişiklikler ile birlikte rapora yansıtır. Yalnızca Linux’da ücretsiz olmak üzere diğer platformlarda da kullanılabilir."
+		"Description": "Tripwire sistemlerde veri bÃ¼tÃ¼nlÃ¼ÄŸÃ¼nÃ¼ analiz ve kontrol edebilmek iÃ§in geliÅŸtirilmiÅŸ bir yazÄ±lÄ±mdÄ±r.Ã‡alÄ±ÅŸtÄ±ÄŸÄ±rÄ±ldÄ±ÄŸÄ±nda dosya bÃ¼tÃ¼nlÃ¼klerini kontrol ederek bilgileri bir veritabanÄ±nda toplar. Bir sonraki kontrol aÅŸamasÄ±nda bu veritabanÄ±nda kayÄ±tlÄ± olan bilgilere gÃ¶re herhangi bir deÄŸiÅŸiklik saptarsa deÄŸiÅŸiklikler ile birlikte rapora yansÄ±tÄ±r. YalnÄ±zca Linuxâ€™da Ã¼cretsiz olmak Ã¼zere diÄŸer platformlarda da kullanÄ±labilir."
 	},
 
 	{
@@ -46,8 +46,8 @@
 		"ImageURL": "https://raw.githubusercontent.com/frkngzl/H5190033FurkanGuzel/master/Images/5suricata.jpg",
 		"HeaderImageURL": "https://raw.githubusercontent.com/frkngzl/H5190033FurkanGuzel/master/Images/5suricata_header.jpg",
 		"Website": "https://suricata-ids.org",
-		"Stable Release": "4 Aralık 2020",
-		"Description": "Suricata, Açık Bilgi Güvenliği Vakfı (OISF) tarafından geliştirilen açık kaynaklı bir tehdit algılama motorudur. Suricata bir saldırı tespit sistemi (IDS) ve saldırı önleme sistemi (IPS) olarak görev yapabilir veya ağ güvenliği izleme için kullanılabilir. Snort ile aralarındaki fark, Suricata’nın çok iş parçacıklı olmasıdır, yani aynı anda birden fazla çekirdek kullanabilir. Birden fazla CPU’yu kullanmak, aynı anda birden fazla olayı işlemesine izin verir. Linux, Windows, Mac gibi platformlarda kullanılabilir."
+		"Stable Release": "4 AralÄ±k 2020",
+		"Description": "Suricata, AÃ§Ä±k Bilgi GÃ¼venliÄŸi VakfÄ± (OISF) tarafÄ±ndan geliÅŸtirilen aÃ§Ä±k kaynaklÄ± bir tehdit algÄ±lama motorudur. Suricata bir saldÄ±rÄ± tespit sistemi (IDS) ve saldÄ±rÄ± Ã¶nleme sistemi (IPS) olarak gÃ¶rev yapabilir veya aÄŸ gÃ¼venliÄŸi izleme iÃ§in kullanÄ±labilir. Snort ile aralarÄ±ndaki fark, Suricataâ€™nÄ±n Ã§ok iÅŸ parÃ§acÄ±klÄ± olmasÄ±dÄ±r, yani aynÄ± anda birden fazla Ã§ekirdek kullanabilir. Birden fazla CPUâ€™yu kullanmak, aynÄ± anda birden fazla olayÄ± iÅŸlemesine izin verir. Linux, Windows, Mac gibi platformlarda kullanÄ±labilir."
 	},
 
 	{
@@ -56,8 +56,8 @@
 		"ImageURL": "https://raw.githubusercontent.com/frkngzl/H5190033FurkanGuzel/master/Images/6tcpdump.jpg",
 		"HeaderImageURL": "https://raw.githubusercontent.com/frkngzl/H5190033FurkanGuzel/master/Images/6tcpdump_header.jpg",
 		"Website": "https://www.tcpdump.org",
-		"Stable Release": "30 Aralık 2020",
-		"Description": "Tcpdump, belirli bir arabirimdeki bir ağ üzerinden alınan veya aktarılan TCP / IP paketlerini yakalama amacına sahip en güçlü ve yaygın olarak kullanılan komut satırı paketleri dinleyicisi ve analiz aracıdır. Linux / Unix tabanlı işletim sistemlerinin çoğunda mevcuttur. Tcpdump ayrıca yakalanan paketleri gelecekteki analizler için bir dosyaya kaydetme seçeneği de sunar. Dosyayı tcpdump komutu veya tcpdump pcap format dosyalarını okuyan Wireshark (Network Protocol Analyzier) adlı açık kaynaklı GUI tabanlı bir araç tarafından görüntülenebilen bir pcap formatında kaydeder."
+		"Stable Release": "30 AralÄ±k 2020",
+		"Description": "Tcpdump, belirli bir arabirimdeki bir aÄŸ Ã¼zerinden alÄ±nan veya aktarÄ±lan TCP / IP paketlerini yakalama amacÄ±na sahip en gÃ¼Ã§lÃ¼ ve yaygÄ±n olarak kullanÄ±lan komut satÄ±rÄ± paketleri dinleyicisi ve analiz aracÄ±dÄ±r. Linux / Unix tabanlÄ± iÅŸletim sistemlerinin Ã§oÄŸunda mevcuttur. Tcpdump ayrÄ±ca yakalanan paketleri gelecekteki analizler iÃ§in bir dosyaya kaydetme seÃ§eneÄŸi de sunar. DosyayÄ± tcpdump komutu veya tcpdump pcap format dosyalarÄ±nÄ± okuyan Wireshark (Network Protocol Analyzier) adlÄ± aÃ§Ä±k kaynaklÄ± GUI tabanlÄ± bir araÃ§ tarafÄ±ndan gÃ¶rÃ¼ntÃ¼lenebilen bir pcap formatÄ±nda kaydeder."
 	}
 
 
